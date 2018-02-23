@@ -1,10 +1,6 @@
 # The Corporate Structure for Blockchain Ventures Challenge Presented by [C4Coin](https://www.c4coin.org/) and [BLIP](https://www.brooklaw.edu/academics/clinicalprogram/blip/aboutblip?)
 
-<img width="544" alt="screen shot 2018-02-13 at 3 00 36 pm" src="https://user-images.githubusercontent.com/2357755/36170884-bda9a61a-10ce-11e8-8bc2-1207a0dac997.png">
-
 The Corporate Structure for Blockchain Ventures Challenge
-
-**Teams participating in the Legal Hackers 2018 [Computational Law and Blockchain Festival](https://legalhackers.org/clbfest2018) are encouraged to tackle The Corporate Structure for Blockchain Ventures Challenge.
 
 # Overview
 
@@ -31,10 +27,10 @@ Create a new legal entity to better empower and anticipate the needs of blockcha
 
 Teams are expected to:
 
-* Pitch their project idea at or before the start of the 2018 CL+B Fest by submitting a paragraph describing the new legal entity under Creative Commons license;
+* Pitch their project idea by submitting a paragraph describing the new legal entity under Creative Commons license;
 * Present their final project in the form of Articles of Incorporation/Organization for Legalblock Hacknet, as well as a detailed description of the new legal entity being created under Creative Commons license;
 * Provide their final project materials (including any slides, video and other media, documentation, working code, etc) through a GitHub repository under an open source license.
 
-Final team projects will be reviewed and rated by a panel of invited judges. Evaluation criteria will be added to this challenge page after an initial meeting of the judges and prior to the start of the CL+B Festival event. The top team projects will be determined based on rank order resulting from an aggregate of the ratings by each judge. The team submitting the top-ranked, highest rated corporate structure will be given a $[____] **cash prize donated by the C4Coin Team.**  
+Final team projects will be reviewed and rated by a panel of invited judges. Evaluation criteria will be added to this challenge page after an initial meeting of the judges. The top team projects will be determined based on rank order resulting from an aggregate of the ratings by each judge. The team submitting the top-ranked, highest rated corporate structure will be given a $[____] **cash prize donated by the C4Coin Team.**  
 
 More information on challenge criteria and additional prizes and awards will be added to this challenge page as they are finalized.
