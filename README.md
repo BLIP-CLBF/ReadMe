@@ -1,4 +1,4 @@
-# The Corporate Structure for Blockchain Ventures Challenge
+# The Corporate Structure for Blockchain Ventures Challenge Presented by C4Coin
 
 <img width="544" alt="screen shot 2018-02-13 at 3 00 36 pm" src="https://user-images.githubusercontent.com/2357755/36170884-bda9a61a-10ce-11e8-8bc2-1207a0dac997.png">
 
