@@ -4,7 +4,7 @@ The Corporate Structure for Blockchain Ventures Challenge
 
 # Overview
 
-Blockchain companies are stuck in an awkward position. They are forced to use traditional corporate structures that are not tailored to the decentralized nature of a blockchain network. A new Corporate Structure should, perhaps, be created where each participant in a blockchain network is able to participate in governance and guidance of the network. We are hopeful that there is a U.S. Jurisdiction that could accommodate this corporate structure, but international jurisdictions should be taken into consideration as well, and perhaps become the haven and benchmark for what a transformative blockchain entity could be.
+Blockchain companies are stuck in a tenuous position. They are forced to use traditional corporate structures that are not tailored to the decentralized nature of a blockchain network. A new Corporate Structure should, perhaps, be created where each participant in a blockchain network is able to participate in governance and guidance of the network. We are hopeful that there is a U.S. Jurisdiction that could accommodate this corporate structure, but international jurisdictions should be taken into consideration as well, and perhaps become the haven and benchmark for what a transformative blockchain entity could be.
 
 # Team Participation
 
