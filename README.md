@@ -12,7 +12,7 @@ Blockchain companies are stuck in an awkward position. They are forced to use tr
 
 # Team Participation
 
-To register your team project for the Sovereign Legal Identity Challenge, submit a [GitHub Issue](https://github.com/BLIP-CLBF) with the following information: 
+To register your team project for the Corporate Structure for Blockchain Ventures Challenge, submit a [GitHub Issue](https://github.com/BLIP-CLBF) with the following information: 
 * The name of your project and your team name;
 * The names of your team members including the GitHub username of at least one member;
 * The URL of the GitHub repository where your project will be developed and submitted;
