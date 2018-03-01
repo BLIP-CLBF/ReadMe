@@ -31,6 +31,6 @@ Teams are expected to:
 * Present their final project in the form of Articles of Incorporation/Organization for Legalblock Hacknet, as well as a detailed description of the new legal entity being created under Creative Commons license;
 * Provide their final project materials (including any slides, video and other media, documentation, working code, etc) through a GitHub repository under an open source license.
 
-Final team projects will be reviewed and rated by a panel of invited judges. Evaluation criteria will be added to this challenge page after an initial meeting of the judges. The top team projects will be determined based on rank order resulting from an aggregate of the ratings by each judge. The team submitting the top-ranked, highest rated corporate structure will be given 60 CTKN plus a $1,500 **cash prize donated by the C4Coin Team.**  
+Final team projects will be reviewed and rated by a panel of invited judges. Evaluation criteria will be added to this challenge page after an initial meeting of the judges. The top team projects will be determined based on rank order resulting from an aggregate of the ratings by each judge. The team submitting the top-ranked, highest rated corporate structure will be given **60 CTKN plus a $1,500 cash prize donated by the C4Coin Team.**  
 
 More information on challenge criteria and additional prizes and awards will be added to this challenge page as they are finalized.
